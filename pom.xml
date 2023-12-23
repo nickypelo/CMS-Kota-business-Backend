@@ -63,6 +63,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<finalName>kotalicious-business</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
